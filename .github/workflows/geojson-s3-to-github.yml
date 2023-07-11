@@ -1,0 +1,23 @@
+name: Replicate S3 Folder to GitHub
+on:
+  schedule:
+    - cron: '0 10 * * *'
+jobs:
+  replicate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Install AWS CLI
+        uses: actions/setup-aws@v1
+        with:
+          region: us-east-1
+          access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          secret_access_key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: Replicate S3 Folder
+        run: |
+          aws s3 sync s3://kin-sandbox-tmpdatalake-raw/noaa/cat_event/ --filter="*.geojson" .
+      - name: Commit and Push
+        run: |
+          git add .
+          git commit -m "Replicated S3 folder to GitHub"
+          git push
