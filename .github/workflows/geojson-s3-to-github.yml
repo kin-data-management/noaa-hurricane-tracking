@@ -19,6 +19,8 @@ jobs:
           aws s3 sync s3://kin-sandbox-tmpdatalake-raw/noaa/cat_event/ . --exclude "*" --include "*.geojson"
       - name: Commit and Push
         run: |
+          git config --global user.email "sa_data-management@kin.com"
+          git config --global user.name "kin-data-management"
           git add .
           git commit -m "Replicated S3 folder to GitHub"
           git push
