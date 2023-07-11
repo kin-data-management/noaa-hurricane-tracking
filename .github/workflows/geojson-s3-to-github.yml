@@ -16,7 +16,7 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       - name: Replicate S3 Folder
         run: |
-          aws s3 sync s3://kin-sandbox-tmpdatalake-raw/noaa/cat_event/ cat-event/ --exclude "*" --include "*.geojson" .
+          aws s3 sync s3://kin-sandbox-tmpdatalake-raw/noaa/cat_event/ --exclude "*" --include "*.geojson"
       - name: Commit and Push
         run: |
           git add .
