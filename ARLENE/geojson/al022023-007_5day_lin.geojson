@@ -1,1 +1,0 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-85.5, 25.4], [-85.1, 24.4], [-84.0, 23.5]]}, "properties": {"STORMNAME": "Arlene", "STORMTYPE": "TS", "ADVDATE": "1000 PM CDT Fri Jun 02 2023", "ADVISNUM": "7", "STORMNUM": 2, "FCSTPRD": 120, "BASIN": "AL"}}]}
