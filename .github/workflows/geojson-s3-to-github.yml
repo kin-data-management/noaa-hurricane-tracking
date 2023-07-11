@@ -2,13 +2,14 @@ name: Replicate S3 Folder to GitHub
 on:
   schedule:
     - cron: '0 10 * * *'
+  workflow_dispatch:
 jobs:
   replicate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
       - name: Install AWS CLI
-        uses: actions/setup-aws@v1
+        uses: actions/setup-aws@v2
         with:
           region: us-east-1
           access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
