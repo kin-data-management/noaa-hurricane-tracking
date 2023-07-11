@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@master
       - name: Install AWS CLI
-        uses: actions/setup-aws@v2
+        uses: actions/setup-aws-cli@v1
         with:
           region: us-east-1
           access_key_id: ${{ secrets.AWS_ACCESS_KEY_ID }}
