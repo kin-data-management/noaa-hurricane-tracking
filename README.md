@@ -4,7 +4,7 @@ This repository contains the latest data from NOAA. The data is replicated from 
 
 ## Contents
 The repository contains the following files:
-- replicate_s3_folder.yaml: A Git action that replicates the S3 folder which belongs to Kin Insurance to this GitHub repo (STORMNAME/geojson/).
+- replicate_s3_folder.yaml: A Git action that replicates the S3 folder which belongs to Kin Insurance to this GitHub repo (STORMNAME/geojson/). This git action runs at 10am UTC daily.
 - newest_data_geojson.py: A Python script which is triggered by that finds the latest data for each storm and copies it to a folder called newest_data for each storm (STORMNAME/newest_data/).
 
 ## Usage
