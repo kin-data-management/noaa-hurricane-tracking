@@ -39,4 +39,4 @@ for storm in get_storm_paths():
         src = f"{storm}/{file[0]}"
         dest = f"{storm_name}/newest_data/{file[1]}.geojson"
         os.makedirs(os.path.dirname(dest), exist_ok=True)
-        shutil.copy(src, dest)
+        shutil.copy(src, dest) 
