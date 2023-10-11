@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-109.7, 18.3], [-108.5, 19.1], [-105.9, 20.6], [-103.0, 22.5]]}, "properties": {"STORMNAME": "Lidia", "STORMTYPE": "HU", "ADVDATE": "1200 AM MDT Tue Oct 10 2023", "ADVISNUM": "28A", "STORMNUM": 15, "FCSTPRD": 120, "BASIN": "EP"}}]}
