@@ -17,9 +17,9 @@ jobs:
       - name: Replicate S3 Folder
         run: |
           aws s3 sync s3://kin-sandbox-tmpdatalake-raw/noaa/ . --exclude "*" --include "*.geojson"
-      - name: Run newest_data Python file
-        run: |
-          python newest_data_geojson.py
+      # - name: Run newest_data Python file
+      #   run: |
+      #     python newest_data_geojson.py
       - name: Commit and Push
         run: |
           git config --global user.email "sa_data-management@kin.com"
