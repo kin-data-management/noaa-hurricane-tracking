@@ -1,1 +1,0 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-50.4, 21.2], [-51.8, 22.1], [-53.7, 23.5], [-55.3, 25.0], [-56.0, 27.0]]}, "properties": {"STORMNAME": "Rina", "STORMTYPE": "TS", "ADVDATE": "1100 AM AST Sat Sep 30 2023", "ADVISNUM": "9", "STORMNUM": 18, "FCSTPRD": 120, "BASIN": "AL"}}]}
