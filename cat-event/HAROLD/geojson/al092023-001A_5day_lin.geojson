@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-91.0, 25.0], [-92.8, 25.5], [-96.8, 26.6], [-100.1, 27.8]]}, "properties": {"STORMNAME": "Nine", "STORMTYPE": "PC", "ADVDATE": "100 PM CDT Mon Aug 21 2023", "ADVISNUM": "1A", "STORMNUM": 9, "FCSTPRD": 120, "BASIN": "AL"}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-77.0, 35.1], [-77.5, 35.5], [-77.3, 37.0], [-76.3, 38.2], [-75.2, 39.0]]}, "properties": {"STORMNAME": "Ophelia", "STORMTYPE": "TS", "ADVDATE": "800 AM EDT Sat Sep 23 2023", "ADVISNUM": "8A", "STORMNUM": 16, "FCSTPRD": 120, "BASIN": "AL"}}]}

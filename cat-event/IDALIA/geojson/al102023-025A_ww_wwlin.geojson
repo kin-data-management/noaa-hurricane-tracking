@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-64.95, 32.2], [-64.58, 32.43]]}, "properties": {"STORMNAME": "Idalia", "STORMTYPE": "PTC", "ADVDATE": "800 PM AST Fri Sep 01 2023", "ADVISNUM": "25A", "STORMNUM": 10, "FCSTPRD": 120, "BASIN": "AL", "TCWW": "TWR"}}]}
