@@ -21,7 +21,7 @@ for storm in get_storm_paths():
     file_names = get_files_in_folder(storm)
     storm_name = storm.split('/')[0]
 
-    if storm_name == 'wsp':
+    if storm_name != 'wsp':
       newest_data_lin_5day = (sorted([file_name for file_name in file_names if "5day_lin" in file_name], reverse=True)[0], "5day_lin")
       newest_data_pgn_5day = (sorted([file_name for file_name in file_names if "5day_pgn" in file_name], reverse=True)[0], "5day_pgn")
       newest_data_pts_5day = (sorted([file_name for file_name in file_names if "5day_pts" in file_name], reverse=True)[0], "5day_pts")
