@@ -20,6 +20,7 @@ def get_files_in_folder(folder_path):
 for storm in get_storm_paths():
     file_names = get_files_in_folder(storm)
     storm_name = storm.split('/')[0]
+    print(f"getting geojson for {storm_name}")
 
     if storm_name != 'wsp':
       newest_data_lin_5day = (sorted([file_name for file_name in file_names if "5day_lin" in file_name], reverse=True)[0], "5day_lin")
