@@ -17,8 +17,13 @@ def get_files_in_folder(folder_path):
       files.append(file)
   return files
 
-for storm in get_storm_paths():
+storm_paths = get_storm_paths()
+print(storm_paths)
+
+for storm in storm_paths:
     file_names = get_files_in_folder(storm)
+    print(file_names)
+    
     storm_name = storm.split('/')[0]
     print(f"getting geojson for {storm_name}")
 
