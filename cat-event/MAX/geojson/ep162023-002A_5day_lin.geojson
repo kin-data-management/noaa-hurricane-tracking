@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-100.8, 14.7], [-101.2, 15.3], [-101.5, 16.1], [-101.6, 16.9], [-101.6, 17.9], [-101.5, 19.0]]}, "properties": {"STORMNAME": "Sixteen-E", "STORMTYPE": "PC", "ADVDATE": "700 AM CDT Sun Oct 08 2023", "ADVISNUM": "2A", "STORMNUM": 16, "FCSTPRD": 120, "BASIN": "EP"}}]}

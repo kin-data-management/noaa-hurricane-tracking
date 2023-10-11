@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.5, 16.5]}, "properties": {"PWIND120": "0.100000001"}}, {"type": "Feature", "geometry": {"type": "Point", "coordinates": [-95.0, 16.5]}, "properties": {"PWIND120": "0.100000001"}}]}
