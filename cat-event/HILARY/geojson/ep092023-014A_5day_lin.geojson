@@ -1,1 +1,0 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-114.2, 24.4], [-114.8, 26.4], [-116.2, 30.8], [-117.6, 36.4]]}, "properties": {"STORMNAME": "Hilary", "STORMTYPE": "HU", "ADVDATE": "600 PM MDT Sat Aug 19 2023", "ADVISNUM": "14A", "STORMNUM": 9, "FCSTPRD": 120, "BASIN": "EP"}}]}

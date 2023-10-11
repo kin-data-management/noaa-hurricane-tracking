@@ -1,1 +1,0 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-64.8, 45.9], [-63.2, 47.2], [-57.1, 50.1], [-48.4, 52.5]]}, "properties": {"STORMNAME": "Lee", "STORMTYPE": "PTC", "ADVDATE": "200 AM AST Sun Sep 17 2023", "ADVISNUM": "47A", "STORMNUM": 13, "FCSTPRD": 120, "BASIN": "AL"}}]}

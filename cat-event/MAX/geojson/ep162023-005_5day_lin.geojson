@@ -1,1 +1,0 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-101.9, 16.3], [-102.0, 17.0], [-101.9, 17.8], [-101.6, 18.6]]}, "properties": {"STORMNAME": "Max", "STORMTYPE": "TS", "ADVDATE": "1000 PM CDT Sun Oct 08 2023", "ADVISNUM": "5", "STORMNUM": 16, "FCSTPRD": 120, "BASIN": "EP"}}]}
