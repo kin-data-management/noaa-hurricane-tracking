@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-108.8, 24.6], [-108.3, 25.3], [-107.0, 26.0]]}, "properties": {"STORMNAME": "Norma", "STORMTYPE": "TS", "ADVDATE": "1200 AM MDT Mon Oct 23 2023", "ADVISNUM": "22A", "STORMNUM": 17, "FCSTPRD": 120, "BASIN": "EP"}}]}
