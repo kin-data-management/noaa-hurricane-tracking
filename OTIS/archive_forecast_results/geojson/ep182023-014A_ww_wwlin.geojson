@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-99.88, 16.81], [-98.57, 16.33]]}, "properties": {"STORMNAME": "Otis", "STORMTYPE": "TS", "ADVDATE": "100 PM CDT Wed Oct 25 2023", "ADVISNUM": "14A", "STORMNUM": 18, "FCSTPRD": 120, "BASIN": "EP", "TCWW": "TWR"}}]}
