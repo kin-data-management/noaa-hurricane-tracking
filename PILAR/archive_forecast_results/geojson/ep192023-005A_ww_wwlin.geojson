@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-90.1, 13.74], [-89.33, 13.49], [-88.45, 13.17], [-87.83, 13.43]]}, "properties": {"STORMNAME": "Nineteen-E", "STORMTYPE": "TD", "ADVDATE": "700 PM CDT Sun Oct 29 2023", "ADVISNUM": "5A", "STORMNUM": 19, "FCSTPRD": 120, "BASIN": "EP", "TCWW": "TWA"}}]}
