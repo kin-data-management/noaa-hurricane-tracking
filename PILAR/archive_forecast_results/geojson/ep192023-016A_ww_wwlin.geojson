@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-90.1, 13.74], [-89.33, 13.49], [-88.45, 13.17], [-87.83, 13.43]]}, "properties": {"STORMNAME": "Pilar", "STORMTYPE": "TS", "ADVDATE": "100 PM CDT Wed Nov 01 2023", "ADVISNUM": "16A", "STORMNUM": 19, "FCSTPRD": 120, "BASIN": "EP", "TCWW": "TWA"}}]}
