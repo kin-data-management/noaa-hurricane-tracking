@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-59.57, 13.45], [-59.57, 12.92]]}, "properties": {"STORMNAME": "Beryl", "STORMTYPE": "TS", "ADVDATE": "800 AM AST Sat Jun 29 2024", "ADVISNUM": "3A", "STORMNUM": 2, "FCSTPRD": 120, "BASIN": "AL", "TCWW": "HWA"}}]}
