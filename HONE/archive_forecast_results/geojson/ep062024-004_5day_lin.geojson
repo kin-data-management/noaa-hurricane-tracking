@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-110.8, 16.9], [-113.1, 17.9], [-116.2, 18.6], [-119.5, 18.6]]}, "properties": {"STORMNAME": "Fabio", "STORMTYPE": "TS", "ADVDATE": "200 AM MST Tue Aug 06 2024", "ADVISNUM": "4", "STORMNUM": 6, "FCSTPRD": 120, "BASIN": "EP"}}]}

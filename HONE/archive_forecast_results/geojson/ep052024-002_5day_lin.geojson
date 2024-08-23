@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-113.2, 15.5], [-113.3, 14.8], [-113.7, 13.9], [-113.4, 13.7], [-114.0, 15.2]]}, "properties": {"STORMNAME": "Five-E", "STORMTYPE": "TD", "ADVDATE": "200 PM MST Sun Aug 04 2024", "ADVISNUM": "2", "STORMNUM": 5, "FCSTPRD": 120, "BASIN": "EP"}}]}

@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-128.5, 20.6], [-129.5, 20.6], [-130.8, 20.2], [-132.2, 19.6], [-133.6, 19.1]]}, "properties": {"STORMNAME": "Carlotta", "STORMTYPE": "PTC", "ADVDATE": "800 PM PDT Mon Aug 05 2024", "ADVISNUM": "23", "STORMNUM": 3, "FCSTPRD": 120, "BASIN": "EP"}}]}

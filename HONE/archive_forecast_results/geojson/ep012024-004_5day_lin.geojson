@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-108.7, 18.7], [-109.9, 18.7], [-111.3, 18.3], [-112.8, 17.9]]}, "properties": {"STORMNAME": "Aletta", "STORMTYPE": "TD", "ADVDATE": "200 AM MST Fri Jul 05 2024", "ADVISNUM": "4", "STORMNUM": 1, "FCSTPRD": 120, "BASIN": "EP"}}]}

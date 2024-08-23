@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-64.98, 32.21], [-64.54, 32.43]]}, "properties": {"STORMNAME": "Ernesto", "STORMTYPE": "HU", "ADVDATE": "200 PM AST Sat Aug 17 2024", "ADVISNUM": "24A", "STORMNUM": 5, "FCSTPRD": 120, "BASIN": "AL", "TCWW": "TWR"}}]}

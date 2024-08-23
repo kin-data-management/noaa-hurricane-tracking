@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-126.0, 16.7], [-126.0, 16.7]]}, "properties": {"STORMNAME": "Daniel", "STORMTYPE": "PTC", "ADVDATE": "800 PM PDT Mon Aug 05 2024", "ADVISNUM": "11", "STORMNUM": 4, "FCSTPRD": 120, "BASIN": "EP"}}]}
