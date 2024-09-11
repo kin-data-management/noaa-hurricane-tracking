@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-93.3, 27.5], [-92.3, 28.5], [-90.8, 30.6], [-90.1, 33.0], [-90.3, 34.7], [-90.3, 35.3]]}, "properties": {"STORMNAME": "Francine", "STORMTYPE": "HU", "ADVDATE": "700 AM CDT Wed Sep 11 2024", "ADVISNUM": "11A", "STORMNUM": 6, "FCSTPRD": 120, "BASIN": "AL"}}]}
