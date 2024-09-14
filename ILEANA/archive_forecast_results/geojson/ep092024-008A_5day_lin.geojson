@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-109.2, 24.7], [-109.3, 25.1], [-109.7, 25.9], [-110.4, 26.6], [-111.2, 27.4]]}, "properties": {"STORMNAME": "Ileana", "STORMTYPE": "TS", "ADVDATE": "500 AM MST Sat Sep 14 2024", "ADVISNUM": "8A", "STORMNUM": 9, "FCSTPRD": 120, "BASIN": "EP"}}]}
