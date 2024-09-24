@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-101.55, 17.64], [-100.63, 17.18], [-99.88, 16.81], [-98.57, 16.33]]}, "properties": {"STORMNAME": "John", "STORMTYPE": "TS", "ADVDATE": "900 AM CST Tue Sep 24 2024", "ADVISNUM": "9", "STORMNUM": 10, "FCSTPRD": 120, "BASIN": "EP", "TCWW": "TWR"}}]}
