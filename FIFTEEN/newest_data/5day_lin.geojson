@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-85.0, 17.5], [-86.2, 17.5], [-88.3, 17.3], [-90.9, 17.2]]}, "properties": {"STORMNAME": "Fifteen", "STORMTYPE": "PC", "ADVDATE": "400 PM CDT Fri Oct 18 2024", "ADVISNUM": "1", "STORMNUM": 15, "FCSTPRD": 120, "BASIN": "AL"}}]}
