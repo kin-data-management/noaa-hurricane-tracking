@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-86.4, 17.3], [-87.5, 17.5], [-90.0, 17.3]]}, "properties": {"STORMNAME": "Nadine", "STORMTYPE": "TS", "ADVDATE": "100 AM CDT Sat Oct 19 2024", "ADVISNUM": "2A", "STORMNUM": 15, "FCSTPRD": 120, "BASIN": "AL"}}]}
