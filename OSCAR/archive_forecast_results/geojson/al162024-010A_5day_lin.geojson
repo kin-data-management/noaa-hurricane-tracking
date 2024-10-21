@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-75.8, 20.6], [-75.3, 21.0], [-74.7, 22.2], [-73.2, 23.7], [-71.2, 25.6], [-68.3, 28.3]]}, "properties": {"STORMNAME": "Oscar", "STORMTYPE": "TS", "ADVDATE": "200 PM EDT Mon Oct 21 2024", "ADVISNUM": "10A", "STORMNUM": 16, "FCSTPRD": 120, "BASIN": "AL"}}]}
