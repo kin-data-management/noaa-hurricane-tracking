@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-26.8, 37.9], [-24.7, 37.6], [-20.8, 37.6], [-16.6, 38.5], [-12.7, 40.1], [-9.5, 41.6]]}, "properties": {"STORMNAME": "Patty", "STORMTYPE": "STS", "ADVDATE": "600 AM GMT Sun Nov 03 2024", "ADVISNUM": "4A", "STORMNUM": 17, "FCSTPRD": 120, "BASIN": "AL"}}]}
