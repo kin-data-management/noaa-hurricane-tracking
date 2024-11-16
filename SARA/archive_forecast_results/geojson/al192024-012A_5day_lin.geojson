@@ -1,0 +1,1 @@
+{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[-86.8, 16.3], [-86.9, 16.4], [-88.0, 16.9], [-89.6, 17.8], [-90.8, 19.2]]}, "properties": {"STORMNAME": "Sara", "STORMTYPE": "TS", "ADVDATE": "1200 PM CST Sat Nov 16 2024", "ADVISNUM": "12A", "STORMNUM": 19, "FCSTPRD": 120, "BASIN": "AL"}}]}
